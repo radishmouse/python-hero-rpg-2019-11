@@ -18,5 +18,5 @@ for enemy in enemies:
         exit(0)
     shopping_engine.do_shopping(hero)
 
-print("YOU WIN!")
 print("But not you Chris Aquino")
+print("YOU WIN!")
